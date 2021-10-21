@@ -1,4 +1,5 @@
 # ansible-go
+**I have created a new project to do this job much better-[carrier](https://github.com/yngwiewang/carrier)**
 
 Use golang to implement some functions of ansible
 
